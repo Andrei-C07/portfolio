@@ -28,7 +28,7 @@ const About = () => {
           </div>
           <p className="meDesc">
             Hi, my name is <span className="orange">Andrei Cretu</span>. I'm a{" "}
-            <span className="orange">19</span>-year-old aspiring developer. I
+            <span className="orange">19</span> year-old aspiring developer. I
             speak <span className="underline">Romanian</span>,{" "}
             <span className="underline">French</span>, and{" "}
             <span className="underline">English</span> fluently.
